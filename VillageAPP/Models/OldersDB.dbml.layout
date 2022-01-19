@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="OldersDB">
+  <DataContextMoniker Name="/OldersDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fdd5d29e-bbb7-44de-9c11-bc82bf99b9ac" absoluteBounds="3.375, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/OldersDBDataContext/OldersTab" />
+      <nestedChildShapes>
+        <elementListCompartment Id="110d304f-0205-45ee-8511-bbe0fc47991a" absoluteBounds="3.39, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
